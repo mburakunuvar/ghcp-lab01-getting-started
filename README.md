@@ -26,7 +26,7 @@ In this exercise, you will:
 [![Copy Exercise](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=mburakunuvar&template_name=ghcp-lab01-getting-started&owner=%40me&name=lab01-getting-started-with-github-copilot&description=Exercise:+Get+started+using+GitHub+Copilot&visibility=public)
 
 <details>
-<summary>Having trouble? 🤷</summary><br/>
+<summary>Having trouble? ❗❌🤷</summary><br/>
 
 When copying the exercise, we recommend the following settings:
 
