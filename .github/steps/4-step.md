@@ -86,7 +86,7 @@ Your backend still has zero test coverage. Use **Plan Agent** to create a plan, 
 1. Wait for Mona to check your work and share the next step.
 
 <details>
-<summary>Having trouble? ❗❌🤷</summary><br/>
+<summary>Having trouble? ❗❌❓</summary><br/>
 
 - If tests did not run, ask Copilot to run them for you.
 - Make sure `pytest` is added in `requirements.txt` and a `tests/` directory exists.

@@ -46,7 +46,7 @@ Let's start up our development environment, use Copilot to learn a bit about the
 1. Wait a moment for Visual Studio Code to load in your browser. Please be patient, it's deploying all the packages and necessary extensions for the lab 🙂 
 
    <details>
-   <summary>Having trouble running the condespace? ❗❌🤷</summary>
+   <summary>Having trouble running the condespace? ❗❌❓</summary>
 
    > 🪧 **Note:**  If provisioning takes more than **3-4 minutes** or you see a container build error, the Codespace may be using a stale cached image.  **Right-click the "Open in GitHub Codespaces" button again and choose "New with options"** to recreate it — this forces a clean build and bypasses any prebuild cache. Delete the failed Codespace from [github.com/codespaces](https://github.com/codespaces) by clicking the `...` menu next to it and selecting **Delete**.
 
@@ -115,7 +115,7 @@ Let's start up our development environment, use Copilot to learn a bit about the
    <img width="300" alt="Run and Debug tab in VS Code" src="https://github.com/{{full_repo_name}}/raw/main/src/static/images/run-and-debug-tab.png" />
 
    <details>
-   <summary>Having trouble running? ❗❌🤷</summary>
+   <summary>Having trouble running? ❗❌❓</summary>
 
    > 🪧 **Note:** Run the updates for extensions and reload the window if requested. 
 
@@ -161,7 +161,7 @@ Great work! Now that we are familiar with the app and we know it works, let's as
 1. Now that your branch is pushed to GitHub, Mona should already be busy checking your work. Give her a moment and keep watch in the comments. You will see her respond with progress info and the next lesson.
 
 <details>
-<summary>Having trouble? ❗❌🤷</summary><br/>
+<summary>Having trouble? ❗❌❓</summary><br/>
 
 If you don't get feedback, here are some things to check:
 

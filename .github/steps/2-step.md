@@ -89,7 +89,6 @@ In new project developments, it's often helpful to have some realistic-looking f
 
 1. Highlight the entire `activities` dictionary by clicking and dragging your mouse from the top to the bottom of the dictionary. This will help provide context to Copilot for our next prompt.
 
-   <img width="700" alt="Highlighted activities dictionary before opening inline chat" src="https://github.com/{{full_repo_name}}/raw/main/src/static/images/activities-dict-highlighted.png" />
 
 1. Bring up Copilot inline chat by using the keyboard command `Ctrl + I` (Windows) or `Cmd + I` (Mac).
 
@@ -109,7 +108,7 @@ In new project developments, it's often helpful to have some realistic-looking f
    <details>
    <summary>Example Results</summary><br/>
 
-    Copilot is growing every day and may not always produce the same results. If you are unhappy with the suggestions, here is an example result we produced during the making of this exercise. You can use it to continue forward, if having trouble ❗❌🤷.
+    Copilot is growing every day and may not always produce the same results. If you are unhappy with the suggestions, here is an example result we produced during the making of this exercise. You can use it to continue forward, if having trouble ❗❌❓.
 
    ```python
    # In-memory activity database
@@ -197,7 +196,7 @@ Nice work fixing that bug and expanding the example activities! Now let's get ou
 1. Wait a moment for Mona to check your work, provide feedback, and share the next lesson.
 
 <details>
-<summary>Having trouble? ❗❌🤷</summary><br/>
+<summary>Having trouble? ❗❌❓</summary><br/>
 
 If you don't get feedback, here are some things to check:
 
