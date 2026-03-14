@@ -24,7 +24,7 @@ Both **Copilot pull request summaries** and **Copilot code review** have limited
 
 1. You might notice a **notification banner** suggesting to create a new pull request. Click that or use the **Pull Requests** tab at the top. Please use the following details:
 
-<img alt="Create pull request page" width="450px" src="../../images/pull-request.png">
+<img alt="Create pull request page" width="450px" src="https://github.com/{{full_repo_name}}/raw/main/src/static/images/pull-request.png">
 
    - **base:** `main`
    - **compare:** `accelerate-with-copilot`
@@ -32,11 +32,11 @@ Both **Copilot pull request summaries** and **Copilot code review** have limited
 
 1. In the PR description toolbar click the **Copilot** icon and **Summary** action. After a moment, Copilot will add a description based on your changes. 📝 Then click **create a new pull request**
 
-   <img alt="Copilot summarize button" width="450px" src="../../src/static/images/copilot-summarize-button.png">
+   <img alt="Copilot summarize button" width="450px" src="https://github.com/{{full_repo_name}}/raw/main/src/static/images/copilot-summarize-button.png">
 
 1. (Optional) In the right side information panel at the top, locate the **Reviewers** section and click the **Request** button next to a **Copilot icon**. Wait a moment for Copilot to add a review comment to your pull request!
 
-   <img alt="Copilot review button" width="300px" src="https://raw.githubusercontent.com/mburakunuvar/GHCP-ZeroToHero-HandsOnWorkshops/main/images/lab01/copilot-review-button.png">
+   <img alt="Copilot review button" width="300px" src="https://github.com/{{full_repo_name}}/raw/main/src/static/images/copilot-review-button.png">
 
    > 💡 **Tip:** Notice a log entry that Copilot was requested for a review.
 

@@ -19,10 +19,9 @@ In this exercise, you will:
 1. Learn different interaction options to develop and plan with GitHub Copilot.
 1. Use Copilot to summarize and review your pull request.
 
-### How to start this exercise
+## How to start this exercise
 
-Simply copy the exercise to your account, then give your favorite Octocat (Mona)
-**about 20 seconds** to prepare the first lesson, then **refresh the page**.
+## Simply copy the exercise to your account, it'll look same to this repo first but wait for **about 20 seconds** and refresh the page.  Your favorite instructor, Octocat (Mona) will prepare the first lesson.
 
 [![Copy Exercise](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=mburakunuvar&template_name=ghcp-lab01-getting-started&owner=%40me&name=lab01-getting-started-with-github-copilot&description=Exercise:+Get+started+using+GitHub+Copilot&visibility=public)
 
