@@ -24,9 +24,7 @@ In this exercise, you will:
 Simply copy the exercise to your account, then give your favorite Octocat (Mona)
 **about 20 seconds** to prepare the first lesson, then **refresh the page**.
 
-[![Copy Exercise](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=mburakunuvar&template_name=GHCP-ZeroToHero-HandsOnWorkshops&owner=%40me&name=lab01-getting-started-with-github-copilot&description=Exercise:+Get+started+using+GitHub+Copilot&visibility=public)
-
-Then follow the Codespaces setup in the [hub README](../README.md#codespaces-setup-per-lab-repository).
+[![Copy Exercise](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=mburakunuvar&template_name=ghcp-lab01-getting-started&owner=%40me&name=lab01-getting-started-with-github-copilot&description=Exercise:+Get+started+using+GitHub+Copilot&visibility=public)
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
@@ -37,7 +35,7 @@ When copying the exercise, we recommend the following settings:
 - Keep the default repository name (or keep the `lab01-` prefix) so Lab01 workflows trigger correctly.
 - We recommend creating a public repository, since private repositories will use Actions minutes.
 
-If the exercise isn't ready in 20 seconds, please check the [Actions](../../actions) tab.
+If the exercise isn't ready in 20 seconds, please check the [Actions](https://github.com/mburakunuvar/ghcp-lab01-getting-started/actions) tab.
 
 - Check to see if a job is running. Sometimes it simply takes a bit longer.
 - If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛

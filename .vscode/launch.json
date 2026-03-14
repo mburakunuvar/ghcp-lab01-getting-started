@@ -8,7 +8,7 @@
       "name": "Launch Amsterdam University WebApp",
       "type": "debugpy",
       "request": "launch",
-      "python": "${workspaceFolder}/../.venv/bin/python",
+      "python": "${workspaceFolder}/.venv/bin/python",
       "module": "uvicorn",
       "args": [
         "src.app:app",
