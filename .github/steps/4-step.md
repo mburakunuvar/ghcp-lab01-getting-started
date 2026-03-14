@@ -37,7 +37,7 @@ Your backend still has zero test coverage. Use **Plan Agent** to create a plan, 
 
 1. Open the **Copilot Chat** panel and switch to **Plan Agent**.
 
-   <img width="350" alt="Plan mode dropdown in Copilot Chat" src="https://raw.githubusercontent.com/mburakunuvar/GHCP-ZeroToHero-HandsOnWorkshops/main/images/lab01/plan-mode-dropdown.png" />
+   <img width="350" alt="Plan mode dropdown in Copilot Chat" src="../../src/static/images/plan-mode-dropdown.png" />
 
 1. Let's start with a broad prompt and Copilot will help us fill in the details:
 
@@ -69,7 +69,7 @@ Your backend still has zero test coverage. Use **Plan Agent** to create a plan, 
 
 1. Review the proposed plan and when you are happy with it, click **Start implementation** to hand off to **Agent Mode**.
 
-   <img width="350" alt="Start implementation button in Plan Agent" src="https://raw.githubusercontent.com/skills/getting-started-with-github-copilot/main/.github/images/plan-mode-start-implementation.png" />
+   <img width="350" alt="Start implementation button in Plan Agent" src="../../src/static/images/plan-mode-start-implementation.png" />
 
    Notice that clicking the button switched from **Plan** to **Agent Mode**. From this point on, Copilot can edit your codebase, just like before.
 

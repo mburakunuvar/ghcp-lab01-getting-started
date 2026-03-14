@@ -1,7 +1,7 @@
 """
-Amsterdam University Student Activities API
+University of Amsterdam Student Activities API
 
-A FastAPI application that allows students of Amsterdam University
+A FastAPI application that allows students of University of Amsterdam
 to view and sign up for extracurricular activities.
 """
 
@@ -12,8 +12,8 @@ import os
 from pathlib import Path
 
 app = FastAPI(
-    title="Amsterdam University Activities API",
-    description="API for viewing and signing up for extracurricular activities at Amsterdam University"
+    title="University of Amsterdam Activities API",
+    description="API for viewing and signing up for extracurricular activities at University of Amsterdam"
 )
 
 # Mount the static files directory

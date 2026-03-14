@@ -6,7 +6,7 @@ _Get started using GitHub Copilot in less than an hour._
 
 - **Who is this for**: Developers at any experience level looking to accelerate their code workflow.
 - **What you'll learn**: The different ways to interact with Copilot to explain, write, plan, and develop code.
-- **What you'll build**: You will guide Copilot to update Amsterdam University's student activity registration website.
+- **What you'll build**: You will guide Copilot to update University of Amsterdam's student activity registration website.
 - **Prerequisites**:
   - Skills exercise: [Introduction to GitHub](https://github.com/skills/introduction-to-github)
   - Familiarity with [VS Code](https://code.visualstudio.com/)

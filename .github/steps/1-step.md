@@ -2,13 +2,13 @@
 
 Welcome to your **"Getting Started with GitHub Copilot"** exercise! 🤖
 
-In this exercise, you will be using different GitHub Copilot features to work on a website that allows students of **Amsterdam University** to sign up for extracurricular activities. 🚴 🌷 📊
+In this exercise, you will be using different GitHub Copilot features to work on a website that allows students of **University of Amsterdam** to sign up for extracurricular activities. 🚴 🌷 📊
 
-<img width="600" alt="Screenshot of Amsterdam University Student Activities WebApp" src="https://raw.githubusercontent.com/mburakunuvar/GHCP-ZeroToHero-HandsOnWorkshops/main/images/lab01/amsterdam-high-school-webapp.png" />
+<img width="600" alt="Screenshot of University of Amsterdam Student Activities WebApp" src="../../src/static/images/amsterdam-high-school-webapp.png" />
 
 ### 📖 Theory: Getting to know GitHub Copilot
 
-<img width="150" align="right" alt="Copilot logo" src="https://raw.githubusercontent.com/mburakunuvar/GHCP-ZeroToHero-HandsOnWorkshops/main/images/lab01/copilot-logo.png" />
+<img width="150" align="right" alt="Copilot logo" src="../../src/static/images/copilot-logo.png" />
 
 GitHub Copilot is an AI coding assistant that helps you write code faster and with less effort, allowing you to focus more energy on problem solving and collaboration.
 
@@ -46,26 +46,27 @@ Let's start up our development environment, use Copilot to learn a bit about the
 1. Wait a moment for Visual Studio Code to load in your browser. Please be patient, it's deploying all the packages and necessary extensions for the lab 🙂 
 
    > ❌ [!WARNING]
-   > If provisioning takes more than **5 minutes** or you see a container build error, the Codespace may be using a stale cached image. Delete the Codespace, then **right-click the "Open in GitHub Codespaces" button above and choose "New with options"** to recreate it — this forces a clean build and bypasses any prebuild cache.
+   > If provisioning takes more than **3-4 minutes** or you see a container build error, the Codespace may be using a stale cached image.  **Right-click the "Open in GitHub Codespaces" button again and choose "New with options"** to recreate it — this forces a clean build and bypasses any prebuild cache. Delete the failed Codespace from [github.com/codespaces](https://github.com/codespaces) by clicking the `...` menu next to it and selecting **Delete**.
 
 1. In the left sidebar, click the extensions tab and verify that the `GitHub Copilot Chat` and `Python` extensions are installed and enabled. 
 
-   <img width="350" alt="GitHub Copilot Chat extension in VS Code" src="https://raw.githubusercontent.com/mburakunuvar/GHCP-ZeroToHero-HandsOnWorkshops/main/images/lab01/copilot-chat-extension-vscode.png" />
+   <img width="350" alt="GitHub Copilot Chat extension in VS Code" src="../../src/static/images/copilot-chat-extension-vscode.png" />
 
-   <img width="350" alt="Python extension in VS Code" src="https://raw.githubusercontent.com/mburakunuvar/GHCP-ZeroToHero-HandsOnWorkshops/main/images/lab01/python-extension-vscode.png" />
+   <img width="350" alt="Python extension in VS Code" src="../../src/static/images/python-extension-vscode.png" />
 
-   > 🪧 **Note:** Run the updates for extensions if needed.
+   > 🪧 **Note:** Run the updates for extensions and reload the window if needed.
 
+   <img width="350" alt="Reload window in VS Code" src="../../src/static/images/reload-window.png" />
 
 1. At the top of VS Code, locate and you can **Toggle On and Off Chat Icon** to open a Copilot Chat side panel.
 
   
-   <img width="350" alt="Toggle Chat icon in VS Code" src="https://raw.githubusercontent.com/mburakunuvar/GHCP-ZeroToHero-HandsOnWorkshops/main/images/lab01/toggle-chat-icon.png" />
+   <img width="350" alt="Toggle Chat icon in VS Code" src="../../src/static/images/toggle-chat-icon.png" />
 
   
 1. Make sure you are in **Ask Mode** for our first interaction. Click the icon on bottom right next to "+" sign in order to list options as Ask, Agent and Plan.
 
-   <img width="350" alt="Ask Mode selection in Copilot Chat" src="https://raw.githubusercontent.com/mburakunuvar/GHCP-ZeroToHero-HandsOnWorkshops/main/images/lab01/ask-mode-selection.png" />
+   <img width="350" alt="Ask Mode selection in Copilot Chat" src="../../src/static/images/ask-mode-selection.png" />
 
 1. Enter the below prompts to ask Copilot to introduce you to the project.
 
@@ -102,7 +103,7 @@ Let's start up our development environment, use Copilot to learn a bit about the
 
 1. Now that we know a bit more about the project, let's actually try running it! In the left sidebar, select the `Run and Debug` tab and then press the **Start Debugging** icon.
 
-   <img width="300" alt="Run and Debug tab in VS Code" src="https://raw.githubusercontent.com/mburakunuvar/GHCP-ZeroToHero-HandsOnWorkshops/main/images/lab01/run-and-debug-tab.png" />
+   <img width="300" alt="Run and Debug tab in VS Code" src="../../src/static/images/run-and-debug-tab.png" />
 
    <details>
    <summary>Having trouble running? 🐍</summary>
@@ -115,11 +116,11 @@ Let's start up our development environment, use Copilot to learn a bit about the
 1. We want to see our webpage running in a browser by clicking on **Open in Browser" in bottom right. 
 
 
-   <img width="300" alt="Open in browser icon in the Ports panel" src="https://raw.githubusercontent.com/mburakunuvar/GHCP-ZeroToHero-HandsOnWorkshops/main/images/lab01/open-in-browser-icon-1.png" />
+   <img width="300" alt="Open in browser icon in the Ports panel" src="../../src/static/images/open-in-browser-icon-1.png" />
 
  If the above image isn't visible on bottom right, expand the lower panel and select the **Ports** tab where you can find the URL and port. . In the list, find port `8000` and the related link. Hover over the link and select the **Open in browser** icon.
 
-   <img width="600" alt="Open in browser icon in the Ports panel" src="https://raw.githubusercontent.com/mburakunuvar/GHCP-ZeroToHero-HandsOnWorkshops/main/images/lab01/open-in-browser-icon.png" />
+   <img width="600" alt="Open in browser icon in the Ports panel" src="../../src/static/images/open-in-browser-icon.png" />
 
 ### :keyboard: Activity: Use Copilot to help remember a terminal command 🙋
 
@@ -129,7 +130,7 @@ Great work! Now that we are familiar with the app and we know it works, let's as
 
    > 🪧 **Note:** This will avoid stopping the existing debug session that is hosting our web application service.
 
-   <img width="750" alt="Open in browser icon in the Ports panel" src="https://raw.githubusercontent.com/mburakunuvar/GHCP-ZeroToHero-HandsOnWorkshops/main/images/lab01/terminal-new-bash.png" />
+   <img width="750" alt="Open in browser icon in the Ports panel" src="../../src/static/images/terminal-new-bash.png" />
 
 
 1. Within the new terminal window use the keyboard shortcut `Ctrl + I` (Windows) or `Cmd + I` (Mac) to bring up **Copilot's Terminal Inline Chat**.

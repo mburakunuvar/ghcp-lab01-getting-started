@@ -48,7 +48,7 @@ In short, you can think of Copilot like a very specialized coworker. To be effec
       # Validate student is not already signed up
       ```
 
-      <img width="700" alt="Copilot shadow text suggestion in the editor" src="https://raw.githubusercontent.com/skills/getting-started-with-github-copilot/main/.github/images/shadow-text.gif" />
+      <img width="700" alt="Copilot shadow text suggestion in the editor" src="../../src/static/images/shadow-text.gif" />
 
    1. Press `Tab` to accept Copilot's suggestion and convert the shadow text to code.
 
@@ -89,7 +89,7 @@ In new project developments, it's often helpful to have some realistic-looking f
 
 1. Highlight the entire `activities` dictionary by clicking and dragging your mouse from the top to the bottom of the dictionary. This will help provide context to Copilot for our next prompt.
 
-   <img width="700" alt="Highlighted activities dictionary before opening inline chat" src="https://raw.githubusercontent.com/skills/getting-started-with-github-copilot/main/.github/images/activities-dict-highlighted.png" />
+   <img width="700" alt="Highlighted activities dictionary before opening inline chat" src="../../src/static/images/activities-dict-highlighted.png" />
 
 1. Bring up Copilot inline chat by using the keyboard command `Ctrl + I` (Windows) or `Cmd + I` (Mac).
 
@@ -101,7 +101,7 @@ In new project developments, it's often helpful to have some realistic-looking f
    >
    > ```prompt
    > Add 2 more sports-related activities, 2 more creative arts activities, and 2 more academic activities.
-   > Use realistic Amsterdam University student email addresses for existing participants.
+   > Use realistic University of Amsterdam student email addresses for existing participants.
    > ```
 
 1. After a moment, Copilot will directly start making changes to the code. The changes will be stylized differently to make any additions and removals easy to identify. Take a moment to inspect and verify the changes, and then press the **Keep** button.
@@ -185,7 +185,7 @@ Nice work fixing that bug and expanding the example activities! Now let's get ou
 
 1. Find the `app.py` file and press the `+` sign to collect your changes together in the staging area.
 
-   <img width="400" alt="Staging changes icon in VS Code Source Control" src="https://raw.githubusercontent.com/skills/getting-started-with-github-copilot/main/.github/images/staging-changes-icon.png" />
+   <img width="400" alt="Staging changes icon in VS Code Source Control" src="../../src/static/images/staging-changes-icon.png" />
 
 1. Above the list of staged changes, find the **Message** text box, but **don't enter anything** for now.
    - Typically, you would write a short description of the changes here, but now we have Copilot to help out!

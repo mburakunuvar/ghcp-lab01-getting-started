@@ -32,7 +32,7 @@ Both **Copilot pull request summaries** and **Copilot code review** have limited
 
 1. In the PR description toolbar click the **Copilot** icon and **Summary** action. After a moment, Copilot will add a description based on your changes. 📝 Then click **create a new pull request**
 
-   <img alt="Copilot summarize button" width="450px" src="https://raw.githubusercontent.com/mburakunuvar/GHCP-ZeroToHero-HandsOnWorkshops/main/images/lab01/copilot-summarize-button.png">
+   <img alt="Copilot summarize button" width="450px" src="../../src/static/images/copilot-summarize-button.png">
 
 1. (Optional) In the right side information panel at the top, locate the **Reviewers** section and click the **Request** button next to a **Copilot icon**. Wait a moment for Copilot to add a review comment to your pull request!
 
