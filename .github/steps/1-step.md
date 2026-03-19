@@ -45,16 +45,16 @@ Let's start up our development environment, use Copilot to learn a bit about the
 
 1. Wait a moment for Visual Studio Code to load in your browser. Please be patient, it's deploying all the packages and necessary extensions for the lab 🙂 
 
-   <details>
-   <summary>Having trouble running the condespace? ❗❌❓</summary>
-
-   > 🪧 **Note:**  If provisioning takes more than **3-4 minutes** or you see a container build error, the Codespace may be using a stale cached image.  **Right-click the "Open in GitHub Codespaces" button again and choose "New with options"** to recreate it — this forces a clean build and bypasses any prebuild cache. Delete the failed Codespace from [github.com/codespaces](https://github.com/codespaces) by clicking the `...` menu next to it and selecting **Delete**.
-
-   <img width="600" alt="Create new Codespace with options to fix provisioning issue" src="https://github.com/{{full_repo_name}}/raw/main/src/static/images/create-new-codespace-bug.png" />
-
-           
-
-   </details>
+   > [!IMPORTANT]
+   > ### 🚨 Having trouble running the Codespace? ❗❌❓
+   >
+   > If provisioning takes more than **3-4 minutes** or you see a **container build error** (e.g. `Failed to create container`, `Error code: 1302`), the Codespace may be using a stale cached image.
+   >
+   > **To fix this:**
+   > 1. **Delete the failed Codespace** from [github.com/codespaces](https://github.com/codespaces) by clicking the `...` menu next to it and selecting **Delete**.
+   > 2. **Right-click the "Open in GitHub Codespaces" button again** and choose **"New with options"** to recreate it — this forces a clean build and bypasses any prebuild cache.
+   >
+   > <img width="600" alt="Create new Codespace with options to fix provisioning issue" src="https://github.com/{{full_repo_name}}/raw/main/src/static/images/create-new-codespace-bug.png" />
 
 
 1. In the left sidebar, click the extensions tab and verify that the `GitHub Copilot Chat` and `Python` extensions are installed and enabled. 
@@ -86,11 +86,11 @@ Let's start up our development environment, use Copilot to learn a bit about the
    > ```
 
    > ```prompt
-   > #file:lab01-getting-started-with-github-copilot  Explain the structure of this project and how to run it.
+   > Briefly explain what #file:app.py does
    > ```
 
 
-   > 🪧 **Note:** It is not necessary to follow Copilot's recommended instructions. We have already prepared the environment and some assignments for you.
+   > 🪧 **Note:** Even for these intro questions, Copilot may come up with recommendations. It is not necessary to follow these instructions. We have already prepared the environment and some assignments for you.
 
    <details>
    <summary>What is `#codebase`</summary>

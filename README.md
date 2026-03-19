@@ -21,7 +21,7 @@ In this exercise, you will:
 
 ## How to start this exercise
 
-## Simply copy the exercise to your account, it'll look same to this repo first but wait for **about 20 seconds** and refresh the page.  Your favorite instructor, Octocat (Mona) will prepare the first lesson.
+## Scroll to the bottom of this repo and simply copy the exercise to your account. Initially, for **15-20 seconds**, it'll look same to this repo first. Wait for a while please and then refresh the page.  Your favorite instructor, Octocat (Mona) will prepare the first lesson.
 
 [![Copy Exercise](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=mburakunuvar&template_name=ghcp-lab01-getting-started&owner=%40me&name=lab01-getting-started-with-github-copilot&description=Exercise:+Get+started+using+GitHub+Copilot&visibility=public)
 

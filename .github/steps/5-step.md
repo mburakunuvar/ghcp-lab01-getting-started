@@ -2,7 +2,7 @@
 
 Congratulations! You are finished with coding for this exercise (and VS Code). Now it's time to merge our work. 🎉 To wrap up, let's learn about two limited-access Copilot features that can speed up our pull requests!
 
-### 📖 Theory: GitHub Copilot for pull requests
+### 📖 Theory: GitHub Copilot for pull requests - OPTIONAL 
 
 #### Copilot pull request summaries
 
