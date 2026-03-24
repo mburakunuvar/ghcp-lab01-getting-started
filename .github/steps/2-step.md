@@ -96,8 +96,7 @@ In new project developments, it's often helpful to have some realistic-looking f
 
 1. Enter the following prompt text and press enter or the **Send** button on the right.
 
-   > ![Prompt](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
-   >
+   
    > ```prompt
    > Add 2 more sports-related activities, 2 more creative arts activities, and 2 more academic activities.
    > Use realistic University of Amsterdam student email addresses for existing participants.
